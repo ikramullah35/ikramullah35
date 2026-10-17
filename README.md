@@ -107,10 +107,20 @@ https://to-do-app-blue-rho.vercel.app/
 
 ## 🤝 Connect With Me
 
-📧 **Email:** ikramullah35000@gmail.com
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ikram-ullah-07658536b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+## 🤝 Connect With Me
 
----
+<p align="left">
+
+<a href="https://www.instagram.com/_ikramkhan4n/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/ikram-ullah-07658536b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+</a>
+
+</p>
+
 
 ### 💡 Build. Learn. Improve. Repeat. 🚀
