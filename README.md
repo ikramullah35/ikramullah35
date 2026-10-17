@@ -39,19 +39,39 @@ MongoDB • MySQL • Git • GitHub • VS Code • Postman • Vercel
 
 ## 🚀 Featured Projects
 
+### 🎓 Universal Link Education
+
+An education platform designed to provide online learning resources and courses through a modern web interface.
+
+🔗 **Live Website:**  
+https://www.universallinkeducation.com/
+
+---
+
+### 👖 Fashion Hubb
+
+A modern e-commerce clothing website focused on men's fashion, featuring a clean and responsive shopping experience.
+
+🔗 **Live Website:**  
+https://fashion-hubb-silk.vercel.app/
+
+---
+
+### 💎 Ikanova
+
+A modern business website built with a professional and responsive user interface.
+
+🔗 **Live Website:**  
+https://www.ikanova.com/
+
+---
+
 ### 📝 To-Do App
+
 A simple and responsive task management application built with React.
 
-🔗 [Live Demo](https://to-do-app-blue-rho.vercel.app/)
-
-### 📰 News Application
-A news application with category-based browsing and API integration.
-
-### 🎂 Birthday Reminder
-A React application for managing birthday reminders.
-
-### 🎨 Color Picker
-An interactive color picker built with React and JavaScript.
+🔗 **Live Demo:**  
+https://to-do-app-blue-rho.vercel.app/
 
 ---
 
@@ -80,7 +100,7 @@ An interactive color picker built with React and JavaScript.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikramullah35&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikram35&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -89,8 +109,7 @@ An interactive color picker built with React and JavaScript.
 
 📧 **Email:** ikramullah35000@gmail.com
 
-💼 **LinkedIn:** [Connect with me](https://www.instagram.com/_ikramkhan4n?rpxt=OGdsNmpibDlnMzlr&utm_source=qr
-)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ikram-ullah-07658536b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
